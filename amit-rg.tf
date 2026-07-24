@@ -7,3 +7,7 @@ resource "azurerm_resource_group" "example" {
   name     = "example2-resources"
   location = "central india"
 }
+resource "azurerm_resource_group" "example" {
+  name     = "example3-resources"
+  location = "central india"
+}
